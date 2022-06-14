@@ -19,11 +19,11 @@ Amchart 5
 
 # 5. 기능 소개
 그룹 기능 / 집안일 등록 / 집안일 기여도 매기기 / 통계 보기 <br>
-<img src="https://user-images.githubusercontent.com/100547884/173607284-f5120e9f-0700-450b-bc5a-6a0be2f28195.png" width="500px">
-<img src="https://user-images.githubusercontent.com/100547884/173607812-42641fec-90fd-4da4-9142-42838f31dea4.png" width="500px">
-<img src="https://user-images.githubusercontent.com/100547884/173606627-a8393eaf-d231-4566-a820-8632f2307466.png" width="500px">
-<img src="https://user-images.githubusercontent.com/100547884/173607842-82ad62ed-e31a-4e6e-9a8d-55e3fea9761e.png" width="500px">
-<img src="https://user-images.githubusercontent.com/100547884/173607860-c00506d2-bc19-4395-a5c1-7339257a859e.png" width="500px">
+<img src="https://user-images.githubusercontent.com/100547884/173607284-f5120e9f-0700-450b-bc5a-6a0be2f28195.png" width="400px">
+<img src="https://user-images.githubusercontent.com/100547884/173607812-42641fec-90fd-4da4-9142-42838f31dea4.png" width="400px">
+<img src="https://user-images.githubusercontent.com/100547884/173606627-a8393eaf-d231-4566-a820-8632f2307466.png" width="400px">
+<img src="https://user-images.githubusercontent.com/100547884/173607842-82ad62ed-e31a-4e6e-9a8d-55e3fea9761e.png" width="400px">
+<img src="https://user-images.githubusercontent.com/100547884/173607860-c00506d2-bc19-4395-a5c1-7339257a859e.png" width="400px">
 
 # 6. 시연 영상 (Youtube 링크)
 https://youtu.be/z7XadDRllvw

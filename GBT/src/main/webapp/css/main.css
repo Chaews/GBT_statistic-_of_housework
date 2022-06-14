@@ -1,0 +1,209 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'HallymGothic-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2204@1.0/HallymGothic-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@media (max-width: 960px){	
+	.btnstyle{
+		padding: 10px 0px ;
+		width:50%; margin: 0px auto;
+		color:white;
+	}
+	
+	.btnbox{
+		border: none;
+		margin: 0px auto;
+		background-color : #7FB5FF;
+		color:white;
+		margin: 5px 0px;
+	}
+	.btnboxconfirm{
+		border: none;
+		margin: 0px auto;
+		background-color : #001D6E;
+		color:white;
+		margin: 5px 0px;
+	}
+	.btnboxcancel{
+		border: none;
+		margin: 0px auto;
+		background-color : #FEE2C5;
+		color:black;
+		margin: 5px 0px;
+	}
+	
+	#homeimg{
+		margin: 10px 0px;
+		width : 10vw;
+		height : 10vh;
+		object-fit: contain;
+	}
+	
+	.btnboxst{
+		border: none;
+		margin: 0px auto;
+		width:50%;
+		background-color : #7FB5FF;
+		color:white;
+		margin-bottom: 10px;
+	}
+	
+	#regpie{
+	  width: 50%;
+	  height: 250px;
+	  object-fit: contain;
+	}
+	.rangebar{
+		 width: 50%;
+	}
+	
+	.headerback{
+		background-color: hsl(210deg 18% 96%);
+		opacity : 0.7;
+	}
+}
+
+
+
+
+.bg{
+	padding-top:120px;
+	background-image: url(../img/bgimage1.png);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.indexbg{
+	padding-top:120px;
+}
+
+*{ padding: 0px ; margin: 0px;
+font-family: 'HallymGothic-Regular';
+}
+
+.logotext{
+	font-size: 35px;
+}
+.logotext a:hover{
+	text-decoration:none;
+	color: black;	
+}
+
+#homeimg{
+	margin: 10px 0px;
+	width: 100% ;
+}
+
+.tophead{
+	font-size:20px;
+	margin-right: 20px;
+	margin-top: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: black;	
+}
+
+a:hover{
+	text-decoration:underline;
+	color: gray;	
+}
+
+
+
+.btnbox{
+	background-color : #7FB5FF;
+	color:white;
+	border: none;
+}
+
+.btnboxconfirm{
+	background-color : #001D6E;
+	color:white;
+	border: none;
+}
+.btnboxconfirm:hover{
+	color:white;
+}
+
+.btnboxcancel{
+	background-color : #FEE2C5;
+	color:black;
+	border: none;
+}
+.btnboxst{
+	background-color : #7FB5FF;
+	color:white;
+	border: none;
+}
+
+.indexfooter, .homefooter{
+	background: linear-gradient( to right, #bdc3c7, #2c3e50);
+	width:50% ; margin: 0 auto;
+	color:white; padding: 10px 0px ;
+}
+
+.mainframe{
+	background-color : white;
+	border: solid 1px white;
+	border-radius: 15px;
+	box-shadow: 5px 5px gray;
+	min-height: 600px;
+}
+
+#mainpie, #mainbar, #regpie, #statsbar{
+  width: 100%;
+  height: 500px;
+}
+
+.homeh1{
+	font-weight: bold;
+	margin : 60px 0px;
+
+}
+
+.mainh1{
+	line-height: 160%;
+}
+
+h2{
+	line-height: 180%;
+}
+
+.pwhite{
+	line-height: 160%;
+	color:white;
+}
+
+.homemenutext{
+	margin : 20px 0px;
+	padding : 10px;
+	line-height: 160%;
+	
+}
+
+.homebox{
+	margin-bottom : 10px;
+	padding : 10px;
+	border : 1px solid #eeeeee;
+	border-radius: 10px;
+}
+
+i{
+	margin: 12px;
+}
+.buttontable{
+	text-align: center;
+}
+
+.rangebar{
+	 width: 70%;
+	 margin:0px auto;
+}
+
+

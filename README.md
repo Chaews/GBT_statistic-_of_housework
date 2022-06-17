@@ -1,3 +1,5 @@
+시연 영상 (Youtube 링크) https://youtu.be/z7XadDRllvw
+
 # 1. 프로젝트명
 
 ### 가사분담통계 GBT
@@ -24,6 +26,3 @@ Amchart 5
 <img src="https://user-images.githubusercontent.com/100547884/173606627-a8393eaf-d231-4566-a820-8632f2307466.png" width="400px">
 <img src="https://user-images.githubusercontent.com/100547884/173607842-82ad62ed-e31a-4e6e-9a8d-55e3fea9761e.png" width="400px">
 <img src="https://user-images.githubusercontent.com/100547884/173607860-c00506d2-bc19-4395-a5c1-7339257a859e.png" width="400px">
-
-# 6. 시연 영상 (Youtube 링크)
-https://youtu.be/z7XadDRllvw
